@@ -1,1 +1,1 @@
-# Trainer-STM32-V.1.1-Documentation-
+# Trainer STM32 V.1.1 Documentation
